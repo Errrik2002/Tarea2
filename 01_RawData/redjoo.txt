@@ -1,0 +1,7 @@
+targets , factors
+snail , input & ! ( snail & u34 )
+u34 , ! snail & ! zeb
+zeb , ! u200 | ( snail & zeb )
+u200 , ! snail | zeb & u200
+input , input
+
