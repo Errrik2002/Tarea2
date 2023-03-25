@@ -1,9 +1,9 @@
 {
     "id": "9B0A9FAE",
-    "path": "C:/Users/DELL/Desktop/Tarea_02_GF_2023/02_script_tarea2/tarea2.R",
+    "path": "C:/Users/DELL/Desktop/GitHub/Tarea2/02_script_tarea2/tarea2.R",
     "project_path": "02_script_tarea2/tarea2.R",
     "type": "r_source",
-    "hash": "366099325",
+    "hash": "776648015",
     "contents": "",
     "dirty": false,
     "created": 1679529111719.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "36,0",
-        "scrollLine": "31"
+        "cursorPosition": "83,0",
+        "scrollLine": "66"
     },
     "folds": "",
-    "lastKnownWriteTime": 1679542746,
+    "lastKnownWriteTime": 1679752882,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1679542746894,
+    "last_content_update": 1679752882329,
     "read_only": false,
     "read_only_alternatives": []
 }
